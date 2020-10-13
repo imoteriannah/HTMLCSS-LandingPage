@@ -39,7 +39,7 @@ section {
 	justify-content: space-between;
 }
 .btn {
-	pointer: cursor;
+	 cursor:pointer;
 	border: 0;
 	padding: 6px 12px 6px 12px;
 	border-radius:3px;
